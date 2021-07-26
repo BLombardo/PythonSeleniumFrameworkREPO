@@ -15,4 +15,6 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
-# First change made by cloned repo
+# First change. Made by cloned repo
+
+# Second change. Made by normal repo
